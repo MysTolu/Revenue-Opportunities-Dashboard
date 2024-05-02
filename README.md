@@ -9,4 +9,4 @@ This project shows different revenue opportunities that were available during ea
 
 # Link to the interactive Power BI dashboard
 
-https://1drv.ms/u/s!AkxRjtHsycTUggw902IR8w6lgyDV?e=SMNNAq
+(https://app.powerbi.com/links/1tbs41ueqV?ctid=682106db-9a7b-4b35-b9a0-88473385d6cf&pbi_source=linkShare)
